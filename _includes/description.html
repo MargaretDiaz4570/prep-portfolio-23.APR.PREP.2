@@ -5,6 +5,10 @@
         <div class="info">
             <p class="title"> {{ item.name }}</p>
             <p class="location"> {{ item.location }}</p>
+            <a href="{{ item.linkedin }}" target="_blank"><img src="./assets/img/{{ item.linkedln-logo }}" class="social-icon"></a>
+            <a href="{{ item.twitter }}" target="_blank"><img src="./assets/img/{{ item.twitter-logo }}" class="social-icon"></a>
+            <a href="{{ item.resume }}" target="_blank"><img src="./assets/img/{{ item.resume-logo }}" class="social-icon"></a>
+            <a href="{{ item.github }}" target="_blank"><img src="./assets/img/{{ item.github-logo }}" class="social-icon"></a>
         </div>
     </div>
     {% endfor %}

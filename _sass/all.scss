@@ -72,6 +72,19 @@ a {
         font-weight: 400;
     }
 
+    .social-icon {
+      display: inline-block;
+      background-repeat: no-repeat;
+      background-position: center center;
+      width: 30px;
+      height: 30px;
+      text-indent: -9999px; /* hide the link text */
+    }    
+    .social-icon:hover {
+      width: 40px;
+      height: 40px;
+    }    
+
     .dates {
         font-size: small;
         color: #404040;
@@ -86,5 +99,6 @@ a {
 
     img {
         width: 100%;
+
     }
 }

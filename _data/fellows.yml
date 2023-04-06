@@ -1,15 +1,48 @@
 - name: Will
   img: logo.jpg
   location: London, UK
+  linkedln-logo: linkedin.jpg
+  linkedln: https://www.linkedin.com/
+  twitter-logo: twitter.jpg
+  twitter: https://www.twitter.com
+  resume-logo: resume-icon.jpg
+  resume: link
+  github-logo: github.jpg
+  github: https://github.com/
 
 - name: Amanda
   img: amanda.jpg
   location: New York City, USA
+  linkedln-logo: linkedin.jpg
+  linkedln: https://www.linkedin.com/
+  twitter-logo: twitter.jpg
+  twitter: https://www.twitter.com
+  resume-logo: resume-icon.jpg
+  resume: link
+  github-logo: github.jpg
+  github: https://github.com/
+
 
 - name: Aaron
   img: aaron.jpg
   location: London, UK
+  linkedln-logo: linkedin.jpg
+  linkedln: https://www.linkedin.com/
+  twitter-logo: twitter.jpg
+  twitter: https://www.twitter.com
+  resume-logo: resume-icon.jpg
+  resume: link
+  github-logo: github.jpg
+  github: https://github.com/
 
 - name: Swift
   img: swift.jpg
   location: New York City, USA
+  linkedln-logo: linkedin.jpg
+  linkedln: https://www.linkedin.com/
+  twitter-logo: twitter.jpg
+  twitter: https://www.twitter.com
+  resume-logo: resume-icon.jpg
+  resume: link
+  github-logo: github.jpg
+  github: https://github.com/
